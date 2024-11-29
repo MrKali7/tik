@@ -21,5 +21,28 @@
             "PORT":"8082"  
         },
         "run": "main.py"  
+    },
+	"bot2": {
+        "source": "https://github.com/MrKali7/custompro1.git",
+        "branch": "main", 
+        "env": {
+            "API_HASH":"5f7d3dc656c008c70bffdf7f4f9b8ebb",
+	    "APP_ID":"21863401",
+	    "CHANNEL_ID":"-1001830594381",
+	    "DB_NAME":"Cluster0",
+	    "DB_URI":"mongodb+srv://molasa7348:29TiLiVemOcKUmxf@cluster0.9dkky.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+	    "FORCE_SUB_CHANNEL":"0",
+	    "FORCE_SUB_CHANNEL2":"0",
+	    "FORCE_SUB_CHANNEL3":"0",
+	    "FORCE_SUB_CHANNEL4":"0",
+	    "OWNER_ID":"6230356497",
+	    "PAYMENT_QR":"https://ibb.co/rb6vnwZ",
+	    "SHORTLINK_API":"2b491547a49b1d8274e9a619c8258029ef2b8bd0",
+	    "SHORTLINK_URL":"offerlinks.in",
+	    "TG_BOT_TOKEN":"6748708552:AAEya6awhAuxwhR7ujfPWsko7j1GkCjPWjk",
+	    "TUT_VID":"https://t.me/",
+            "PORT":"8083"  
+        },
+        "run": "main.py"  
     }
 }

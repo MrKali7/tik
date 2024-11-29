@@ -10,8 +10,8 @@ RUN apt-get update && \
     bash \
     curl \
     git \
-    jq \  # Install jq here
-    && apt-get clean
+    jq && \
+    apt-get clean
 
 # Set the working directory inside the container
 WORKDIR /app

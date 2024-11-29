@@ -18,7 +18,7 @@
 	    "SHORTLINK_URL":"offerlinks.in",
 	    "TG_BOT_TOKEN":"7849968867:AAH-_CY_7Q58wT6fcw3mLdf6cTAjgnJKv5Y",
 	    "TUT_VID":"https://t.me/All_Links_Ki_Duniya",
-            "PORT":"8082"  
+            "PORT":"8000"  
         },
         "run": "main.py"  
     },

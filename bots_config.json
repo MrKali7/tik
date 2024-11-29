@@ -1,7 +1,7 @@
 {   
-    "bot1": {// Dir
-        "source": "https://github.com/MrKali7/custompro1.git",// Url
-        "branch": "main",  //branch
+    "bot1": {
+        "source": "https://github.com/MrKali7/custompro1.git",
+        "branch": "main", 
         "env": {
             "API_HASH":"d188b95fd99b5a5410b8eef5fac7f132",
 	    "APP_ID":"24984353",
@@ -18,8 +18,8 @@
 	    "SHORTLINK_URL":"offerlinks.in",
 	    "TG_BOT_TOKEN":"7849968867:AAH-_CY_7Q58wT6fcw3mLdf6cTAjgnJKv5Y",
 	    "TUT_VID":"https://t.me/All_Links_Ki_Duniya",
-            "PORT":"8082"  //importent every bot port keep different
+            "PORT":"8082"  
         },
-        "run": "main.py"   //run file
+        "run": "main.py"  
     }
 }

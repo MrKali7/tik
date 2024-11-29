@@ -1,12 +1,16 @@
-# Use an official base image, e.g., Ubuntu or Alpine, depending on your project's needs
+# Use an official base image (e.g., Ubuntu)
 FROM ubuntu:20.04
 
-# Install necessary dependencies
+# Set environment variables (if needed for the project)
+ENV DEBIAN_FRONTEND=noninteractive
+
+# Install necessary dependencies, including jq
 RUN apt-get update && \
     apt-get install -y \
     bash \
     curl \
     git \
+    jq \  # Install jq here
     && apt-get clean
 
 # Set the working directory inside the container
@@ -26,4 +30,3 @@ RUN ./Build_bots.sh
 
 # Define the default command to run when the container starts
 CMD ["./Run_bots.sh"]
-

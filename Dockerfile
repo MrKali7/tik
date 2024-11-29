@@ -4,13 +4,15 @@ FROM ubuntu:20.04
 # Set environment variables (if needed for the project)
 ENV DEBIAN_FRONTEND=noninteractive
 
-# Install necessary dependencies, including jq
+# Install necessary dependencies, including python3 and pip3
 RUN apt-get update && \
     apt-get install -y \
     bash \
     curl \
     git \
-    jq && \
+    jq \
+    python3 \
+    python3-pip && \
     apt-get clean
 
 # Set the working directory inside the container

@@ -56,7 +56,7 @@
 	    "CHANNEL_ID":"-1002059772630",
 	    "DB_NAME":"Cluster0",
 	    "DB_URI":"mongodb+srv://molasa7348:29TiLiVemOcKUmxf@cluster0.9dkky.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
-	    "DELETE_AFTER":"30"
+	    "DELETE_AFTER":"30",
 	    "FORCE_SUB_CHANNEL":"0",
 	    "FORCE_SUB_CHANNEL2":"0",
 	    "FORCE_SUB_CHANNEL3":"0",

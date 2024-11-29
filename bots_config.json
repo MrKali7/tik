@@ -1,0 +1,25 @@
+{   
+    "bot1": {// Dir
+        "source": "https://github.com/MrKali7/custompro1.git",// Url
+        "branch": "main",  //branch
+        "env": {
+            "API_HASH":"d188b95fd99b5a5410b8eef5fac7f132",
+	    "APP_ID":"24984353",
+	    "CHANNEL_ID":"-1002427274779",
+	    "DB_NAME":"Cluster0",
+	    "DB_URI":"mongodb+srv://molasa7348:29TiLiVemOcKUmxf@cluster0.9dkky.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+	    "FORCE_SUB_CHANNEL":"0",
+	    "FORCE_SUB_CHANNEL2":"0",
+	    "FORCE_SUB_CHANNEL3":"0",
+	    "FORCE_SUB_CHANNEL4":"0",
+	    "OWNER_ID":"6147843565",
+	    "PAYMENT_QR":"https://ibb.co/rb6vnwZ",
+	    "SHORTLINK_API":"2b491547a49b1d8274e9a619c8258029ef2b8bd0",
+	    "SHORTLINK_URL":"offerlinks.in",
+	    "TG_BOT_TOKEN":"7849968867:AAH-_CY_7Q58wT6fcw3mLdf6cTAjgnJKv5Y",
+	    "TUT_VID":"https://t.me/All_Links_Ki_Duniya",
+            "PORT":"8082"  //importent every bot port keep different
+        },
+        "run": "main.py"   //run file
+    }
+}

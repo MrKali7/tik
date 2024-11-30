@@ -48,7 +48,7 @@
         "run": "main.py"  
     },
 	"Preview": {
-        "source": "https://github.com/MrKali7/custompro1.git",
+        "source": "https://github.com/MrKali7/custompro3.git",
         "branch": "main", 
         "env": {
             "API_HASH":"d188b95fd99b5a5410b8eef5fac7f132",
@@ -61,8 +61,6 @@
 	    "FORCE_SUB_CHANNEL2":"0",
 	    "FORCE_SUB_CHANNEL3":"0",
 	    "FORCE_SUB_CHANNEL4":"0",
-	    "IS_VERIFY":"False",
-	    "NOTIFICATION":"⚠️File will delete after 30Sec.",
 	    "OWNER_ID":"6147843565",
 	    "OWNER":"iAdmin77_Bot",
 	    "PAYMENT_QR":"https://ibb.co/rb6vnwZ",

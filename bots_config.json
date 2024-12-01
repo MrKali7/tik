@@ -1,17 +1,18 @@
 {
     "Fileexporterbot": {
-        "source": "https://github.com/MrKali7/custompro1.git",
+        "source": "https://github.com/MrKali7/custompro3.git",
         "branch": "main",
         "env": {
             "API_HASH": "d188b95fd99b5a5410b8eef5fac7f132",
             "APP_ID": "24984353",
             "CHANNEL_ID": "-1002007249580",
+            "DELETE_AFTER":"600",
             "DB_NAME": "Cluster0",
             "DB_URI": "mongodb+srv://FileExport:FileExport@cluster0.nk1j9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
-            "FORCE_SUB_CHANNEL": "0",
-            "FORCE_SUB_CHANNEL2": "0",
-            "FORCE_SUB_CHANNEL3": "0",
-            "FORCE_SUB_CHANNEL4": "0",
+            "FORCE_SUB_CHANNEL": "-1001804935748",
+            "FORCE_SUB_CHANNEL2": "-1002091491280",
+            "FORCE_SUB_CHANNEL3": "-1002091491280",
+            "FORCE_SUB_CHANNEL4": "-1002091491280",
             "OWNER_ID": "6147843565",
             "OWNER": "iAdmin77_Bot",
             "PAYMENT_QR": "https://ibb.co/rb6vnwZ",

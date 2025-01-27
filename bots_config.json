@@ -40,8 +40,8 @@
             "OWNER_ID": "6147843565",
             "OWNER": "iAdmin77_Bot",
             "PAYMENT_QR": "https://ibb.co/rb6vnwZ",
-            "SHORTLINK_API": "2b491547a49b1d8274e9a619c8258029ef2b8bd0",
-            "SHORTLINK_URL": "offerlinks.in",
+            "SHORTLINK_API": "cd94f9868b5cda3f3b9e54786598bd682ff27d4c",
+            "SHORTLINK_URL": "seturl.in",
             "TG_BOT_TOKEN": "7536000467:AAF5plbHtyo-Qii-fBWbAoaOWW08vBUmQRs",
             "TUT_VID": "https://t.me/Bypassurltut",
             "PORT": "8010"
@@ -70,6 +70,31 @@
             "TG_BOT_TOKEN": "7116910212:AAGcpjWiACRpj_wDo7eL_Q89N1fKCAG7HjE",
             "TUT_VID": "https://t.me/Bypassurltut",
             "PORT": "8020"
+        },
+        "run": "main.py"
+    },
+    "premium2": {
+        "source": "https://github.com/MrKali7/custompro1-orignal.git",
+        "branch": "main",
+        "env": {
+            "API_HASH": "d188b95fd99b5a5410b8eef5fac7f132",
+            "APP_ID": "24984353",
+            "CHANNEL_ID": "-1002103196928",
+            "DB_NAME": "Cluster0",
+            "DB_URI": "mongodb+srv://pree2:giXvj9YWpPRaogfJ@cluster0.xfda8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "DELETE_AFTER": "30",
+            "FORCE_SUB_CHANNEL": "0",
+            "FORCE_SUB_CHANNEL2": "0",
+            "FORCE_SUB_CHANNEL3": "0",
+            "FORCE_SUB_CHANNEL4": "0",
+            "OWNER_ID": "6147843565",
+            "OWNER": "iAdmin77_Bot",
+            "PAYMENT_QR": "https://ibb.co/rb6vnwZ",
+            "SHORTLINK_API": "7ee176abeef113441287c1a9ef0a1c250e31d30e",
+            "SHORTLINK_URL": "instantearn.in",
+            "TG_BOT_TOKEN": "7801594199:AAF7SS6qu3VZraF4o5_5gmrsMlc_6b5Dug0",
+            "TUT_VID": "https://t.me/Bypassurltut",
+            "PORT": "8030"
         },
         "run": "main.py"
     }

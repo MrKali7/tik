@@ -20,7 +20,7 @@
             "SHORTLINK_URL": "offerlinks.in",
             "TG_BOT_TOKEN": "7849968867:AAHR5p1g-njoFk4vuY23shi1zZHc44IYfsI",
             "TUT_VID": "https://t.me/Bypassurltut",
-            "PORT": "8000"
+            "PORT": "8040"
         },
         "run": "main.py"
     },

@@ -9,7 +9,7 @@
             "DELETE_AFTER":"600",
             "DB_NAME": "Cluster0",
             "DB_URI": "mongodb+srv://FileExport:FileExport@cluster0.nk1j9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
-            "FORCE_SUB_CHANNEL": "-1001894370154",
+            "FORCE_SUB_CHANNEL": "-1001602408447",
             "FORCE_SUB_CHANNEL2": "-1002091491280",
             "FORCE_SUB_CHANNEL3": "-1002091491280",
             "FORCE_SUB_CHANNEL4": "-1002091491280",
